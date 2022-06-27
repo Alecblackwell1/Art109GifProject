@@ -1,0 +1,70 @@
+h1 {
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+p {
+    font-family: 'PT Serif', serif;
+    font-size: 18px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+button {
+    margin: auto;
+    display: block;
+    padding: 5px;
+}
+
+#myDiv {
+    display: grid;
+    place-items: center;
+}
+
+.Gifs {
+    display: grid;
+    place-items: center;
+}
+
+#Gifs1 {
+    display: grid;
+    place-items: center;
+}
+
+.BegDesc{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.listDesc{
+    background-color: aquamarine;
+    padding-top: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+#notfirstGif {
+    display: inline-block;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+
+ul {
+    background-color: aquamarine;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+}
